@@ -1,0 +1,1 @@
+"I successfully replicated the Usability Hub website's frontend, specifically the landing page, as outlined in the task. This was accomplished using HTML and CSS."
